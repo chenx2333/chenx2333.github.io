@@ -4,23 +4,19 @@
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/156377244?v=4",
     "email": "Chenx2@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "808-255-1635",
     "website": "https://chenx2333.github.io",
-    "summary": "I am studying for a B.B.A in Accounting and double major in MIS at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.B.A in Accounting and double major in MIS at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "chenx2333", "url": "http://github.com/changeme" },
+      { "network": "instagram", "username": "iaomi233", "url": "http://instagram.com/iaomi233" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Watching Movie" },
+    { "name": "Reading" },
+    { "name": "Graphic Design" }
   ],
   "skills": [
     {
@@ -35,9 +31,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Accounting (expected Spring, 2025)",
+      "studyType": "B.B.A",
+      "startDate": "2021-09-01",
       "endDate": "Present",
       "courses": [
       ]
