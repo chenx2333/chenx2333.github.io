@@ -2,14 +2,14 @@
   "basics": {
     "name": "Xiaomin Chen",
     "label": "Student",
-    "picture": "https://avatars.githubusercontent.com/u/156377244?v=4",
+    "picture": "https://github.com/chenx2333.png",
     "email": "Chenx2@hawaii.edu",
     "phone": "808-255-1635",
     "website": "https://chenx2333.github.io",
     "summary": "I am studying for a B.B.A in Accounting and double major in MIS at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "chenx2333", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "chenx2333", "url": "http://github.com/chenx2333" },
       { "network": "instagram", "username": "iaomi233", "url": "http://instagram.com/iaomi233" }
     ]
   },
