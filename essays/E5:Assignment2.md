@@ -8,33 +8,28 @@ published: True
 labels:
   - Assignment2
 ---
+Provide a brief introduction to the assignment along with a link to this page for further details
+For this assignment, we were tasked with developing our e-commerce project with user registration, login functionality, persistence of user data, security measures, and personalization features. The detailed requirements and specifications can be found on this page:(https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html).
 
-My programming skills have greatly improved in the following ways:
+What did you learn from this assignment?
+From this assignment, I learned how to implement user authentication and registration systems in a web application using JavaScript. I gained knowledge about password encryption, user session management, and data persistence techniques. Additionally, I learned about the importance of security measures in web development and how to ensure user privacy and data integrity.
 
-I have become proficient in using JavaScript to create dynamic web applications, as demonstrated in my ability to fetch data from a server and dynamically update the DOM based on user input.
-At the same time,my understanding of server-side programming has improved, as evidenced by my ability to set up an Express server to handle HTTP requests and responses. Lastly, I have learned to effectively debug and troubleshoot code, which has significantly improved my problem-solving skills.
+Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
+No, I worked on this assignment individually.
 
-I need to work on the following to improve my programming skills:
+How did you get help when you needed it? What did you need help with?
+I primarily relied on online resources such as documentation, tutorials, and Chatgpt to seek help when needed. Additionally, I utilized the course materials and lecture notes provided by the instructor. I needed help understanding certain concepts related to passing query strings, which I found clarification on through course materials.
 
-I need to enhance my knowledge of data structures and algorithms to optimize the performance of my code. 
-For example, I know what the IR requirements are and what it's asking for, but it's very hard to start my first step and plan out my further steps because I don't have the experience and I'm uncertain if I did it right.
+How was developing this assignment different than assignment #1?
+Developing this assignment was different from assignment #1 as it required the implementation of user authentication and registration functionality, which involved more complex logic and interactions. Additionally, ensuring security measures such as password encryption added another layer of complexity to the development process compared to assignment #1.
 
-I have learned a lot from doing WODs and I can do them without copying the screencast:
+Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging
+(a) Thinking about how to do something: 40%
+(b) Writing code: 20%
+(c) Testing and debugging: 40%
 
-I have learned a lot from doing WODs, but I don't think I can do them without copying the screencast because I still need more practice on my coding skills, also I felt myself not understood some of the coding concepts completely. When doing Smartphone products 3, I think I was having a very hard time which I had faced many problems.
+Describe what worked well with this project? What did not work well?
+What worked well with this project was the clear specification of requirements, which provided a clear direction for development. However, one aspect that did not work well was understanding and implementing complex concepts.
 
-The labs have help me learn and I am able to complete them with confidence:
-
-The labs have help me learn, but I'm not able to complete them with confidence because a lot of times I felt myself not understanding what it is asking me to do. I understand that it's meaningful for students to think further and explore but I will say some parts are very difficult to solve it out without instructors or clear instructions.
-
-I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
-
-I learned a lot from my experience doing Assignment1 but I don't feel ready to work on Assignment 2, this is because my Assignment 1 faced some issues when I tried to start my Assignment 2. Overall, it's not a good sign to start off, I think I will be facing plenty problems doing Assignment 2.
-
-I think the class can be improved to help my learning in the following ways:
-
-I think the class can be improved with more additional resources or tutorials for topics that students find challenging, such as deploying our projects to cloud. Also, maybe more office hours to help students with the assignments.
-
-What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
-
-What helps me the most in class are WODs, one on one help, difficult assignments but with plenty help. These things helped me the most becuase I'm more a hands on person rather than reading off materials.
+If you could go back in time and do things differently, what would you do differently?
+If I could go back in time, I would allocate more time for the initial setup and configuration of the development environment to avoid unnecessary problems later on. Additionally, I would plan the implementation of user authentication and registration more thoroughly to ensure a smoother development process.
